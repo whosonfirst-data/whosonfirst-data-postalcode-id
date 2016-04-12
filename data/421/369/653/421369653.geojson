@@ -1,0 +1,50 @@
+{
+  "id": 421369653,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"ID",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102018685,
+        85632203,
+        85672097,
+        102072741
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"56004457"
+    },
+    "wof:country":"ID",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "country_id":85632203,
+            "county_id":102072741,
+            "locality_id":102018685,
+            "postalcode_id":421369653,
+            "region_id":85672097
+        }
+    ],
+    "wof:id":421369653,
+    "wof:lastmodified":1459815847,
+    "wof:name":"97719",
+    "wof:parent_id":"102018685",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
